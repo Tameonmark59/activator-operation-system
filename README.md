@@ -4,7 +4,6 @@
 <div align="center">
   <img src="https://img.shields.io/badge/Downloads-69K+-5865F2?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/User%20Rating-4.8/5-00D1FF?style=for-the-badge&logo=star" />
-  <img src="https://img.shields.io/badge/Latest%20Version-os--activator--kms-v2.0-0F172A?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/Supported-OS%20KMS%20Activator-informational?style=for-the-badge&logo=microsoft" />
 </div>
 
